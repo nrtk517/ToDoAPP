@@ -30,6 +30,7 @@
             </form>
           </div>
         </nav>
+        <a href="/login/guest" class="btn btn-secondary btn-block">ゲストログイン</a><br>
         <div class="text-center">
           <a href="{{ route('password.request') }}">パスワードの変更はこちらから</a>
         </div>
