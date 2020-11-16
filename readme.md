@@ -6,7 +6,7 @@
 メールアドレスでユーザー登録し、ユーザーごとにフォルダとタスクの作成をすることができます。  
 独自の機能として、フォルダ・タスクの削除機能（論理削除）とゲストログイン機能を実装しました。
 
-## 機能一覧
+## :speech_balloon: 機能一覧
 - 認証機能
 - ゲストログイン機能
 - フォルダ作成・削除機能
@@ -24,7 +24,7 @@
 - Heroku
 - VSCode (Visual Studio Code)
 
-## :see_no_evil: 作った人
+## :bust_in_silhouette: 作った人
 Github: [nrtk517](https://github.com/)
 
 ## :bulb: References
