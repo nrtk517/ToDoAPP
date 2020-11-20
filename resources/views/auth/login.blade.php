@@ -31,6 +31,9 @@
           </div>
         </nav>
         <a href="/login/guest" class="btn btn-secondary btn-block">ゲストログイン</a><br>
+        <div class="alert alert-danger" role="alert">ゲストログインは機能試用アカウントです。<br>
+          作成したフォルダやタスクは他のゲストユーザーと共有されます。
+        </div>
         <div class="text-center">
           <a href="{{ route('password.request') }}">パスワードの変更はこちらから</a>
         </div>
